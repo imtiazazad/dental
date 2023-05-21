@@ -36,7 +36,7 @@ const Footer = () => {
       </ul>
 
       <p className="footer-copyright">
-        <small>&copy;2021 All Rights Reserved by Alif Bin Hossain.</small>
+        <small>&copy;2021 All Rights Reserved by Imtiaz Azad</small>
       </p>
     </footer>
   );
